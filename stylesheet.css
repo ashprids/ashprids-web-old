@@ -37,15 +37,14 @@ html::after {
 }
 #avatar {
   height: auto; 
-  width: 185px;
+  width: 206px;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  border-radius: 5%;
 }
 #infobox {
     height: 80px; 
-    width: 185px; 
+    width: 206px; 
     padding: 5px; 
     border: 3px double #252525; 
     color: #616161; 
@@ -61,7 +60,7 @@ html::after {
 }
 #links {
     height: 11px; 
-    width: 185px; 
+    width: 206px; 
     padding: 5px; 
     color: #616161; 
     font-size: 11px; 
@@ -82,7 +81,7 @@ a:active {
 } 
 #footer {
     height: 11px; 
-    width: 185px; 
+    width: 206px; 
     padding: 5px; 
     color: #272727; 
     font-size: 9px; 
